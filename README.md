@@ -1,3 +1,5 @@
+# Identifying biomarkers for traumatic brain injury (TBI)-induced dementia using PLSDA on patient RNA-seq data
+
 ## Overview
 The repository contains the data and code to produce a visualization of a subset of the 
 Fragments per Kilobase Millions (FPKM) data from the Allen Brain Institute's Aging, 
